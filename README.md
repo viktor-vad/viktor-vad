@@ -1,4 +1,8 @@
-### Hi there 👋
+# Viktor András VAD
+
+Currently working at **ELTE** as an **assistant lecturer**.
+
+Professional interests are Real-Time Computer Graphics, alternative surface representations.
 
 <!--
 **viktor-vad/viktor-vad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
